@@ -8,7 +8,7 @@ Nombres:
 - Leandro
 - Emilio
 - Celeste Fanna
--Jero Modica
+- Jero Modica
 -
 -
 -
